@@ -247,6 +247,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#E11837;}
 
 /* Rows */
 .bgded .row1{color:#fdfdfd; background-color:rgb(0, 0, 0);}
+.bgded #pageintro {height: 90vh;}
 
 .row1{color:#191919; background-color:rgba(255,255,255,.65);}
 .row1{box-shadow:0 5px 10px rgba(0,0,0,.1);}
